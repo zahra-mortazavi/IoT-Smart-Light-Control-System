@@ -344,13 +344,12 @@ For production use:
 
 * Authentication
 * HTTPS
-
+ 
 ---
 
-# 📜 License
+## 🎓 Academic Context
 
-This project is licensed under the **MIT License**.
+Developed as part of a **IOT course**
+📅 Fall 2024
 
----
-
-باشد؛ که README پروژه را **چند سطح حرفه‌ای‌تر** می‌کند.
+---.
